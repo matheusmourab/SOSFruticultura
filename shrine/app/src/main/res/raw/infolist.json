@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Introdução",
+    "imageName": "ciclo_da_cultura",
+    "imageDescription": "Fig. 1. Fases fenológicas do abacaxizeiro.",
+    "description": "\tO abacaxizeiro (Ananas comosus var. comosus) apresenta algumas características (Figura 1), como a disposição de suas folhas, que associadas aos sistemas adotados para sua produção comercial (presença de talhões em diferentes estádios de desenvolvimento na mesma área) estão diretamente relacionadas à incidência e severidade de ataque de pragas e doenças.\n\n\tDiversas pragas e doenças tem sido relatadas como capazes de atacar o abacaxizeiro em diferentes regiões produtoras do mundo, tanto na pré- quanto na pós-colheita. Esses ataques podem causar perdas significativas na produção de frutos, caso sua ocorrência não seja devidamente constatada e medidas efetivas de controle não seja implementadas.\n\n\tEste manual tem por objetivo disponibilizar aos abacaxicultores informações sobre pragas e doenças de importância econômica para a cultura, de forma a possibilitar seu reconhecimento e monitoramento com vistas a auxiliar na tomada de decisão quanto à adoção de medidas de controle. Considerando que as carências nutricionais ocupam posição de destaque entre os fatores abióticos que podem causar prejuízos ao desenvolvimento e à produção do abacaxizeiro, informações sobre deficiências nutricionais da cultura foram também incluídas.\n\n\tAs informações deste manual, especialmente sobre os níveis de controle das diversas pragas e doenças, poderão ser atualizadas com base nos novos conhecimentos referentes ao assunto, gerados pela pesquisa.",
+    "culture": "ABACAXI"
+  },
+  {
+    "title": "Monitoramento de Pragas e Doenças do Abacaxizeiro",
+    "imageName": "esquema_de_amostragem",
+    "imageDescription": "Fig. 2. Esquema de amostragem para monitoramento de pragas e doenças do abacaxizeirto em talhão de até cinco hectares (azul) e com mais de cinco hectares (vermelho).",
+    "description": "\tO monitoramento de pragas e doenças do abacaxizeiro consiste de inspeções periódicas na área de plantio, com freqüência mínima mensal, a fim de detectar quaisquer problemas  fitossanitários em seu estádio inicial. As vistorias nos talhões devem ser iniciadas a partir do segundo mês após o plantio e continuar até o tratamento de indução floral. Especificamente para broca-do-fruto, as vistorias serão iniciadas no aparecimento da inflorescência e encerradas após o fechamento das flores. O monitoramento deve obedecer a metodologia descrita a seguir:\n\n\tPercorrer o plantio em ziguezague e avaliar 50 plantas seguidas numa mesma linha para os plantios instalados em fileiras simples. No caso de plantios instalados em arranjo espacial de fileiras duplas, avaliar 25 plantas seguidas em cada linha simples componente da fila dupla, num total de 50 plantas. Em plantios de até cinco hectares, avaliar dez pontos composto por 50 plantas, num total de 500 plantas por plantio. Em plantios com mais de cinco hectares, avaliar 20 pontos de 50 plantas num total de 1000 plantas por plantio (Fig. 2).",
+    "culture": "ABACAXI"
+  },
+  {
+    "title": "Períodos Críticos de Ocorrência de Pragas e Doenças do Abacaxizeiro",
+    "imageName": "periodos_de_ocorrencia",
+    "imageDescription": "Tabela 1. Períodos críticos de infecção, infestação e ocorrência de doênças, pragas e anomalias do abacaxizeiro nas diferentes fases fenológicas da cultura.",
+    "description": "\tDurante seus ciclos vegetativo e reprodutivo o abacaxizeiro passa por diversas fases fenológicas cujo conhecimento é de importância fundamental para o manejo integrado das pragas e doenças que afetam essa cultura. Com o objetivo de ampliar e disponibilizar as informações sobre o tema, são apresentados na Tabela 1 as principais pragas e doenças do abacaxizeiro no Brasil e os períodos de maior ocorrência das mesmas durante o desenvolvimento da cultura.",
+    "culture": "ABACAXI"
+  },
+  {
+    "title": "Cuidados e Advertências",
+    "description": "\tCuidado com autodiagnostico e aplicação de agrotóxicos"
+  },
+  {
+    "title": "Informações Sobre Agrotóxicos",
+    "description": "\tTendo em vista os preceitos da produção integrada, o controle de pragas e doenças do abacaxizeiro deve ser fundamentado na prática do manejo integrado. Assim sendo, a tomada de decisão quanto à necessidade de implementação do controle químico deve ser fundamentada no monitoramento da praga. Havendo necessidade de realizar aplicações de agrotóxicos, deve-se dar preferência àqueles de ação específica uma vez que os produtos de largo espectro de ação atuam também sobre os inimigos naturais das pragas, provocando desequilíbrio ecológico com a conseqüente redução no controle biológico. Para minimizar esses efeitos negativos deve-se optar pela utilização de produtos químicos pertencentes à classe de toxicidade e de periculosidade ambiental IV, ou de rótulo com faixa verde. Não havendo produtos desta classe registrados para a cultura a opção deve recair sobre produtos de rótulo com faixa azul, e assim sucessivamente (Tabela 2)."
+  },
+  {
+    "title": "Links Úteis",
+    "description": "\tAgrofit: http://agrofit.agricultura.gov.br \n\n\t500 perguntas e respostas sobre agropecuéria: http://mais500p500r.sct.embrapa.br"
+  },
+  {
+    "title": "Referências",
+    "description": "\tMatos, A. P. de. Manejo integrado da podridão-do-olho do abacaxizeiro. Cruz das Almas: Embrapa-CNPMF, 2005. 2p. (Embrapa-CNPMF, Abacaxi em Foco n. 33)\n\n\tMatos, A. P. de; Cabral, J. R. S. Manejo integrado da fusariose do abacaxizeiro. Cruz das Almas: Embrapa-CNPMF, 2005. 2p. (Embrapa-CNPMF, Abacaxi em Foco n. 32)\n\n\tMatos, A. P. de; Ferreira, D. M. V.; Cordeiro, Z. J. M. Doenças do abacaxizeiro. Informe Agropecuário, Belo Horizonte. V.26, n.228, p.7-11. 2005.\n\n\tSanches, N. F. Manejo integrado da cochonilha do abacaxi. Cruz das Almas: Embrapa- CNPMF, 2005. 2p. (Embrapa-CNPMF, Abacaxi em Foco n. 35)\n\n\tSanches, N. F. Manejo integrado da broca-do-fruto do abacaxi. Cruz das Almas: Embrapa- CNPMF, 2005. 2p. (Embrapa-CNPMF, Abacaxi em Foco n. 36)\n\n\tSouza, L. F. da S. Exigências edáficas e nutricionais. In: Cunha, G. A. P. da; Cabral, J. R. S.; Souza, L. F. da S. (Org.). O abacaxizeiro. Cultivo, agroindústria e economia. Brasília: Embrapa Comunicação para Transferência de Tecnologia, 1999. p. 67-82.",
+    "culture": "ABACAXI"
+  },
+  {
+    "title": "Sobre Nós",
+    "description": "\tLocalizada em Cruz das Almas, Bahia, a Embrapa Mandioca e Fruticultura é a única das 42 Unidades Descentralizadas da Empresa Brasileira de Pesquisa Agropecuária (Embrapa) no estado.\n\tExecuta e coordena pesquisas que aumentem a produção e a produtividade, melhorem a qualidade dos produtos, reduzam os custos de produção e que viabilizem o aproveitamento de áreas ainda subutilizadas para mandioca, citros, banana, abacaxi, manga, mamão, maracujá e acerola."
+  }
+]

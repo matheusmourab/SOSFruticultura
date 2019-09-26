@@ -1,0 +1,581 @@
+[
+  {
+    "title": "FUSARIOSE",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "fusariose1",
+        "imageDescription": "Fig. 3. Abacaxizeiro com sintoma de fusariose."
+      },
+      {
+        "imageName": "fusariose2",
+        "imageDescription": "Fig. 4. Sintomas de fusariose na base da planta (caule e base das folhas)."
+      },
+      {
+        "imageName": "fusariose3",
+        "imageDescription": "Fig. 5. Fruto e mudas (filhotes) com sintomas da fusariose (alterações no frutilho e resina)."
+      },
+      {
+        "imageName": "fusariose4",
+        "imageDescription": "Fig. 6. Fruto com sintomas internos da fusariose (podridão e resina)."
+      }
+    ],
+    "type": "Praga",
+    "informations": [
+      {
+        "title": "Nome Científico",
+        "description": "\tFusarium subglutinans"
+      },
+      {
+        "title": "Importância Economica e Distribuição Geográfica",
+        "description": "\tA fusariose, causada pelo fungo Fusarium subglutinans f. sp. ananas, é a mais séria ameaça à cultura do abacaxi no Brasil, onde o foi encontrada pela primeira vez no estado de São Paulo, em frutos da variedade Smooth Cayenne. A fusariose causa perdas de até 80% na produção de frutos, além de poder infectar cerca de 40% das mudas, das quais 20% morrem antes da produção e colheita. A fusariose está presente também na Bolívia e Venezuela, assim como já foi detectada em abacaxis comercializados no Chile. A maioria das variedades comerciais cultivadas no mundo é suscetível à fusariose."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tLesão no caule e na região aclorofilada da base da folha; exsudação de uma substância gomosa a partir dos tecidos infectados; “abertura” da roseta central das plantas, de forma a visualizar as folhas mais novas; curvatura do talo/caule para o lado onde a lesão está localizada; alterações na filotaxia da planta, com aumento do número de folhas por espiral; paralisação do crescimento, avermelhamento das folhas e morte da planta. Nos frutos observa-se exsudação de resina a partir dos frutilhos infectados que evidenciam coloração vermelho-amarronzada e situam-se num plano inferior aos sadios adjacentes; podridão na polpa, resina nos lóculos do ovário. As mudas tipo filhote podem morrer e secar ainda aderidas à planta-mãe."
+      },
+      {
+        "title": "Amostragem",
+        "description": "\tDez pontos de cinqüenta plantas em plantios de até cinco hectares; vinte pontos de cinqüenta plantas em plantios com mais de cinco hectares."
+      },
+      {
+        "title": "Nível de Controle",
+        "description": "\tHavendo 1% de plantas infectadas no talhão, durante o desenvolvimento vegetativo (do terceiro mês após o plantio ao tratamento de indução floral), recomenda-se o controle químico na fase de desenvolvimento da inflorescência (até o fechamento das flores), mediante aplicação de fungicida registrado para este fim."
+      }
+    ]
+  },
+  {
+    "title": "PODRIDÃO-DO-OLHO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "podridao_do_olho1",
+        "imageDescription": "Fig. 7. Abacaxizeiro com sintomas externos de podridao-do-olho."
+      },
+      {
+        "imageName": "podridao_do_olho2",
+        "imageDescription": "Fig. 8. Sintomas de podridao-do-olho: apodrecimento da base das folhas centrais."
+      },
+      {
+        "imageName": "podridao_do_olho3",
+        "imageDescription": "Fig. 9. Sintomas de podridao-do-olho: faixa de separação entre tecido infectado e sadio."
+      }
+    ],
+    "type": "Praga",
+    "informations": [
+      {
+        "title": "Nome Científico",
+        "description": "\tPhytophthora nicotianae var. parasitica"
+      },
+      {
+        "title": "Importância Economica e Distribuição Geográfica",
+        "description": "\tA podridão-do-olho, causada pelo fungo Phytophthora nicotianae var. parasitica, é um dos mais sérios problemas fitossanitários do abacaxizeiro. Esta doença causa perdas elevadas na produção, principalmente em plantios instalados em solos sujeitos a encharcamento. Presente em todas as regiões produtoras de abacaxi do mundo, essa doença pode ocorrer nos primeiros meses após o plantio, quando causa a morte das plantas, assim como após o tratamento de indução floral, quando causa o apodrecimento do olho da planta. Salpicos de água ou de solo úmido contaminados, depositados sobre a folha, escorrem para sua base e causam a infecção. Solo contaminado também pode favorecer a infecção ao ser depositado sobre as folhas durante a operação de capina."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tAlterações na coloração das folhas mais novas do que a “D”, que passam de verde para amarelo-fosco e cinza que começa na parte apical da folha. Na parte basal aclorofilada das folhas infectadas surgem lesões que expandem rapidamente sem, contudo, atingir a parte clorofilada. Uma faixa marrom separa o tecido infectado do sadio e bloqueia o desenvolvimento do patógeno em direção ao ápice. A partir da base das folhas o patógeno alcança o caule. Com isso, as folhas do olho da planta podem ser facilmente removidas, evidenciando uma podridão."
+      },
+      {
+        "title": "Amostragem",
+        "description": "\tDez pontos de cinqüenta plantas em plantios de até cinco hectares; vinte pontos de cinqüenta plantas em plantios com mais de cinco hectares."
+      },
+      {
+        "title": "Nível de Controle",
+        "description": "\tCom incidência igual ou superior a 1% de plantas infectadas durante o desenvolvimento vegetativo (do terceiro mês após o plantio ao tratamento de indução floral), praticar o controle químico mediante aplicação de fungicida registrado para este fim. A aplicação deverá ser feita de maneira localizada, de forma a cobrir uma área de até 1,5 m de distância das plantas infectadas, utilizando-se, de preferência, um fungicida de ação sistêmica."
+      }
+    ]
+  },
+  {
+    "title": "MANCHA-NEGRA-DO-FRUTO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "mancha_negra_do_fruto1",
+        "imageDescription": "Fig. 10. Sintomas internos da mancha negra do fruto do abacaxizeiro."
+      },
+      {
+        "imageName": "mancha_negra_do_fruto2",
+        "imageDescription": "Fig. 11. Detalhe dos sintomas internos da mancha negra."
+      }
+    ],
+    "type": "Praga",
+    "informations": [
+      {
+        "title": "Nome Científico",
+        "description": "\tPencillium funiculosum, Fusarium moniliforme"
+      },
+      {
+        "title": "Importância Economica e Distribuição Geográfica",
+        "description": "\tA mancha-negra-do-fruto do abacaxizeiro é uma doença conhecida desde o final do século dezenove. Amplamente difundida em todas as regiões produtoras do mundo, essa doença também está presente em todos os Estados produtores de abacaxi no Brasil e causa perdas que dependem do potencial de inóculo, da cultivar e da época de produção. Doença de elevada importância para a abacaxicultura mundial, a mancha-negra-do-fruto tem como agente causal os fungos Penicillium funiculosum e/ou Fusarium moniliforme. A contaminação ocorre durante o desenvolvimento da inflorescência, quando ocorre a penetração através das flores abertas, assim como por lesões presentes na superfície do fruto. A infecção através das flores abertas depende da presença de ácaros na inflorescência, especialmente Steneotarsonemus ananas. A incidência da mancha-negra-do-fruto varia de uma região produtora para outra, assim como dentro de uma mesma região, a depender da época de produção. Esse efeito é devido principalmente à ocorrência de períodos chuvosos antes da abertura das flores, seguidos de períodos secos, o que resulta em alta incidência da doença nos frutos."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tFrutos das cultivares Perolera e Queen evidenciam coloração amarelo- alaranjada nos frutilhos infectados, que se apresentam rebaixados (em nível inferior em relação aos sadios). Após a remoção da casca, os sintomas internos são detectados na forma de podridão marrom-escura no frutilho atacado, sem presença de goma. Frutos das cultivares Smooth Cayenne e Pérola não expressam sintomas externos. Uma característica interessante dessa doença é sua associação com o ácaro do fruto do abacaxizeiro, Steneotarsonemus ananas."
+      },
+      {
+        "title": "Observação",
+        "description": "\tAs intervenções para controle da fusariose e da broca-do-fruto são eficientes para controlar a mancha-negra-do-fruto do abacaxizeiro."
+      }
+    ]
+  },
+  {
+    "title": "PODRIDÃO-NEGRA",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "podridao_negra1",
+        "imageDescription": "Fig. 12. Sintomas internos da podridão-negra do fruto do abacaxizeiro: infecção via corte de colheita."
+      },
+      {
+        "imageName": "podridao_negra2",
+        "imageDescription": "Fig. 13. Sintomas internos da podridão-negra do fruto do abacaxizeiro: infecção via ferimento na casca."
+      }
+    ],
+    "type": "Praga",
+    "informations": [
+      {
+        "title": "Nome Científico",
+        "description": "\tChalara paradoxa"
+      },
+      {
+        "title": "Importância Economica e Distribuição Geográfica",
+        "description": "\tA podridão-negra-do-fruto, também conhecida como podridão-mole, é a mais importante doença de pós-colheita do fruto do abacaxizeiro. É causada por Chalara paradoxa (= Thielaviopsis paradoxa), um patógeno polífago que capaz de causar infecções em várias culturas. Presente em todas as regiões produtoras de abacaxi do mundo, essa doença caracteriza-se pelo desenvolvimento de uma podridão mole, aquosa, especialmente em frutos destinados ao mercado in natura. Perdas também podem ocorrer em frutos destinados à indústria, porém, nesse caso, sua intensidade depende de vários fatores, entre os quais o período de tempo decorrido entre a colheita e o processamento."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tCaracteriza-se pelo desenvolvimento de uma lesão de cor amarela intensa, que progride da base para o ápice do fruto, com expansão mais rápida no sentido vertical do que lateral o que confere à mesma o formato de um cone. Com o progresso da doença a polpa se liquefaz e o suco exsuda, restando, no interior do fruto, apenas as fibras escuras correspondentes aos feixes vasculares. Pode penetrar também por ferimentos na casca dos frutos, provocados pelo manuseio inadequado na colheita e pós-colheita. Neste caso ocorre uma lesão inicialmente amarelada, que progride em direção ao eixo central e torna-se escura."
+      },
+      {
+        "title": "Observação",
+        "description": "\tComo medida de controle recomenda-se eliminar os restos culturais e outras fontes de inóculo nas proximidades do local onde os frutos são processados em pós- colheita. Colher o fruto com uma parte do pedúnculo, de aproximadamente 2 cm de comprimento, e manuseá-los adequadamente, tanto na colheita quanto na pós colheita, de maneira a evitar ferimentos na superfície."
+      }
+    ]
+  },
+  {
+    "title": "PODRIDÃO-AQUOSA-DO-FRUTO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "podridao_aquosa_do_fruto1",
+        "imageDescription": "Fig. 14. Sintoma externo da podridão aquosa do fruto do abacaxizeiro."
+      },
+      {
+        "imageName": "podridao_aquosa_do_fruto2",
+        "imageDescription": "Fig. 15. Sintoma interno da podridão aquosa do fruto do abacaxizeiro."
+      },
+      {
+        "imageName": "podridao_aquosa_do_fruto3",
+        "imageDescription": "Fig. 16. Sintoma interno da podridão aquosa do fruto do abacaxizeiro: estágio final."
+      }
+    ],
+    "type": "Praga",
+    "informations": [
+      {
+        "title": "Nome Científico",
+        "description": "\tErwinia ananas"
+      },
+      {
+        "title": "Importância Economica e Distribuição Geográfica",
+        "description": "\tDetectada pela primeira vez no Brasil em plantios de abacaxizeiro localizados na região nordeste, a podridão-aquosa dos frutos é uma doença causada pela bactéria Erwinia ananas. Atualmente a podridão-aquosa é relatada nas diversas regiões produtoras de abacaxi do País. Embora de ocorrência esporádica, em determinadas épocas de colheita a podridão-aquosa pode causar perdas significativas na produção de frutos."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tO agente causal da podridão-aquosa provoca uma podridão mole na polpa do fruto que, em estádio mais avançado de desenvolvimento da doença, perde sua consistência normal, liquefaz-se e o suco é expelido para fora através de aberturas naturais, ferimentos ou rachaduras na superfície do fruto e assemelha-se a uma espuma de coloração esbranquiçada."
+      },
+      {
+        "title": "Observação",
+        "description": "\tDoença de ocorrência esporádica, geralmente causa perdas pouco significativas na produção de frutos. Ainda não foram desenvolvidas medidas de controle."
+      }
+    ]
+  },
+  {
+    "title": "MURCHA ASSOCIADA À COCHONILHA",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "murcha_associada_a_cochonilha1",
+        "imageDescription": "Fig. 17. Abacaxizeiro infestado com colônias de cochonilhas Dysmicoccus brevipes."
+      },
+      {
+        "imageName": "murcha_associada_a_cochonilha2",
+        "imageDescription": "Fig. 18. Fêmeas e ninfas da cochonilha D. brevipes."
+      },
+      {
+        "imageName": "murcha_associada_a_cochonilha3",
+        "imageDescription": "Fig. 19. Reboleira de plantas com sintomas de murcha associadas à cochonilha."
+      },
+      {
+        "imageName": "murcha_associada_a_cochonilha4",
+        "imageDescription": "Fig. 20. Abacaxizeiro com sintoma de murcha associada à cochonilha."
+      }
+    ],
+    "type": "Praga",
+    "informations": [
+      {
+        "title": "Nome Científico",
+        "description": "\tClosterovirus/Badnavirus associada à Dysmicoccus brevipes"
+      },
+      {
+        "title": "Importância Economica, Distribuição Geográfica, Descrição e Hábitos",
+        "description": "\tA murcha associada à cochonilha é um dos mais importantes problemas fitossanitários da abacaxicultura mundial, causada pelo “pineapple mealybug wilt-associated vírus (PMWaV)” que tem como vetor a cochonilha Dysmicoccus brevipes. A fêmea deste inseto pode alcançar aproximadamente 3 mm de comprimento, possui uma forma oval-alongada, é recoberta por uma secreção cerosa branca, apresenta 34 prolongamentos ao redor do corpo, o que lembra o formato de uma bolota de algodão. Sem essa camada de cera branca, ela tem uma cor rosa. Normalmente ela é encontrada na base das folhas, na porção aclorofilada (parte branca), e também nas raízes, em colônias e comumente rodeada de muitas ninfas, que são os indivíduos jovens da cochonilha. Com o crescimento da população, a cochonilha passa também a infestar o fruto e as mudas."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tOs primeiros sintomas da murcha associada à cochonilha são observados no sistema radicular, onde ocorre o apodrecimento das raízes, exceto as muito novas que aparentemente se mantêm sadias. Dois a três meses após a infecção pelo vírus associado ao inseto aparecem os sintomas foliares caracterizados pelo avermelhamento das folhas, cujas margens se tornam amareladas, com as partes medianas de coloração rósea, e enrolamento dos bordos para a face inferior. Com a evolução dos sintomas ocorre secamento das pontas das folhas que se dobram em direção ao solo. A planta definha progressivamente e pode chegar à morte. Pode ocorrer também redução no tamanho dos frutos. Os sintomas são mais evidentes na cultivar Smooth Cayenne do que na Pérola."
+      },
+      {
+        "title": "Amostragem",
+        "description": "\tDez pontos de cinqüenta plantas em plantios de até cinco hectares; vinte pontos de cinqüenta plantas em plantios com mais de cinco hectares."
+      },
+      {
+        "title": "Nível de Controle",
+        "description": "\tEncontrando-se cinco plantas (até 05 ha) ou 10 plantas (acima de 05 ha) com sintomas durante o desenvolvimento vegetativo (do segundo mês após o plantio ao tratamento de indução floral), praticar o controle químico mediante aplicação de inseticida registrado para este fim. A aplicação deverá ser feita de maneira localizada, de modo a cobrir uma área de até 1,5 m de distância das plantas infectadas, utilizando-se, de preferência, um inseticida de ação sistêmica."
+      }
+    ]
+  },
+  {
+    "title": "BROCA-DO-FRUTO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "broca_do_fruto1",
+        "imageDescription": "Fig. 21. Adulto da broca-do-fruto."
+      },
+      {
+        "imageName": "broca_do_fruto2",
+        "imageDescription": "Fig. 22. Ovo da broca-do-fruto."
+      },
+      {
+        "imageName": "broca_do_fruto3",
+        "imageDescription": "Fig. 23. Lagarta da broca-do-fruto."
+      },
+      {
+        "imageName": "broca_do_fruto4",
+        "imageDescription": "Fig. 24. Sintoma externo de ataque da broca-do-fruto: dejetos e resinas."
+      },
+      {
+        "imageName": "broca_do_fruto5",
+        "imageDescription": "Fig. 14. Sintoma interno do ataque da broca-do-fruto."
+      }
+    ],
+    "type": "Praga",
+    "informations": [
+      {
+        "title": "Nome Científico",
+        "description": "\tStrymon megarus"
+      },
+      {
+        "title": "Importância Economica, Distribuição Geográfica, Descrição e Hábitos",
+        "description": "\tAs perdas em produção causadas pela broca-do-fruto dependem da época de colheita. Presente do México à Argentina, a broca-do-fruto em sua fase adulta, é uma pequena borboleta com aproximadamente 2,8 a 3,5 cm de envergadura. As asas são cinza escuras na face superior e cinza claras, na inferior. As posturas são realizadas durante o dia, preferencialmente na parte superior e mediana da inflorescência. O ovo, com aproximadamente 0,8 mm de diâmetro, é circular, esbranquiçado e achatado na sua parte inferior. Recém eclodida, a lagarta, de coloração amarela-pálida, possui ao redor de 1,6 mm de comprimento. Quando completamente desenvolvida, apresenta de 18 a 20 mm de comprimento e 6 mm de largura, com manchas longitudinais avermelhadas sobre o tom amarelo-escuro de seu corpo. O ventre e o dorso são ligeiramente deprimidos, o que lhe dá o aspecto típico de “lesma” ou “tatuzinho de jardim”. A pupa possui uma coloração castanha com manchas escuras e o seu comprimento está em torno de 13 mm. Eventualmente a broca-do-fruto pode atacar as coroas dos frutos, gemas e mudas na base da inflorescência, mudas em viveiros e, mais raramente, assumir o hábito de minador de folhas de abacaxizeiro."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tUm fruto atacado pela broca-do-fruto evidencia exsudação de uma resina incolor e fluída que, em contato com o ar, torna-se amarelada e ao solidificar-se apresenta coloração marrom-escura. A exsudação da resina entre os frutilhos e sempre misturada com dejetos da larva são características que diferenciam os sintomas da broca- do-fruto daqueles causados pela fusariose. Internamente o fruto, a depender da intensidade do ataque, pode apresentar uma ou mais galerias."
+      },
+      {
+        "title": "Amostragem",
+        "description": "\tDez pontos de vinte plantas em plantios de até cinco hectares; vinte pontos de vinte plantas em plantios com mais de cinco hectares."
+      },
+      {
+        "title": "Nível de Controle",
+        "description": "\tNas avaliações, caso detecte-se pelo menos um adulto (borboleta) ou duas inflorescências com pelo menos uma postura (um ovo), implementar o controle químico mediante aplicação de inseticida registrado para este fim, e suspender as aplicações após o fechamento das últimas flores."
+      }
+    ]
+  },
+  {
+    "title": "BROCA-DO-TALO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "broca_do_talo1",
+        "imageDescription": "Fig. 26. Adulto da broca-do-talo."
+      },
+      {
+        "imageName": "broca_do_talo2",
+        "imageDescription": "Fig. 27. Ovo da broca-do-talo."
+      },
+      {
+        "imageName": "broca_do_talo3",
+        "imageDescription": "Fig. 28. Lagarta da broca-do-talo."
+      },
+      {
+        "imageName": "broca_do_talo4",
+        "imageDescription": "Fig. 29. Sintomas internos do ataque da broca-do-talo: galerias."
+      },
+      {
+        "imageName": "broca_do_talo5",
+        "imageDescription": "Fig. 30. Sintoma externo do ataque da broca-do-talo: olho \"morto\"."
+      }
+    ],
+    "type": "Praga",
+    "informations": [
+      {
+        "title": "Nome Científico",
+        "description": "\tCastnia invaria volitans"
+      },
+      {
+        "title": "Importância Economica, Distribuição Geográfica, Descrição e Hábitos",
+        "description": "\tA broca-do-talo aparentemente está restrita à região Nordeste do Brasil onde causa perdas pouco significativas. Na fase adulta, é uma mariposa com aproximadamente 87 a 105 mm de envergadura e cerca de 34 mm de comprimento. De cores vistosas, as asas anteriores são  marrons com reflexo verde e com três faixas esbranquiçadas; as asas posteriores são vermelhas sobre uma base escura. Os ovos possuem um formato ovóide- alongado, com aproximadamente 6 mm de comprimento e 2,7 mm de diâmetro, e com uma coloração rosa-alaranjada. As lagartas são branco-amareladas e atingem aproximadamente 60 mm de comprimento quando completamente desenvolvidas. Os adultos possuem hábitos diurnos e realizam a postura dos ovos na base das folhas mais externas (tipo C e D) do abacaxizeiro."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tUma planta atacada pela broca-do-talo apresenta as folhas seccionadas na região basal, o “olho morto” e a presença de resina misturada com dejetos na base das folhas. Geralmente ocorre a emissão precoce de rebentão. Apenas uma lagarta é o suficiente para destruir uma planta."
+      },
+      {
+        "title": "Observação",
+        "description": "\tA broca-do-talo pode ocorrer praticamente durante todo o ciclo da cultura, fato este que faz do controle químico alternativa demasiada cara. O controle mecânico é a opção mais econômica. Durante o monitoramento dessa praga o agricultor deve arrancar as plantas atacadas e, com auxílio de um facão, cortar o caule até localizar a lagarta e destruí-la."
+      }
+    ]
+  },
+  {
+    "title": "ÁCARO ALARANJADO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "acaro_alaranjado1",
+        "imageDescription": "Fig. 31. Aspecto da colônia do ácaro alaranjado."
+      },
+      {
+        "imageName": "acaro_alaranjado2",
+        "imageDescription": "Fig. 32. Necrose na base da folha ocasionado pelo ataque do ácaro alaranjado."
+      },
+      {
+        "imageName": "acaro_alaranjado3",
+        "imageDescription": "Fig. 33. Detalhe da necrose na base da folha e presença de colônias de ácaros."
+      }
+    ],
+    "type": "Praga",
+    "informations": [
+      {
+        "title": "Nome Científico",
+        "description": "\tDolichotetranychus floridanus"
+      },
+      {
+        "title": "Descrição e Hábitos",
+        "description": "\tApesar de serem diminutos, com aproximadamente 0,35 mm de comprimento, esses ácaros podem ser vistos a olho nu, em função da sua forte coloração alaranjada. São facilmente encontrados na base das folhas (na parte não-clorofilada) do abacaxizeiro, tanto em mudas como em plantas em desenvolvimento vegetativo."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tO ácaro alaranjado é encontrado na parte basal, aclorofilada das folhas, onde vive em colônias e causa lesões necróticas nos tecidos. Os maiores danos resultantes do ataque desse ácaro são constatados nos tecidos tenros de material propagativo, como os de mudas novas, inclusive naquelas provenientes de viveiros de produção de mudas por secção do talo."
+      },
+      {
+        "title": "Observação",
+        "description": "\tO ácaro alaranjado pode ocorrer praticamente durante todo o ciclo do abacaxizeiro, entretanto, não se pode afirmar que os danos por ele causados (áreas necrosadas na base das folhas) causam prejuízos à planta, uma vez que as lesões parecem ser apenas superficiais e não impedem a circulação da seiva no interior das folhas."
+      }
+    ]
+  },
+  {
+    "title": "QUEIMA-SOLAR",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "queima_solar1",
+        "imageDescription": "Fig. 34. Fruto do abacaxizeiro com forte sintoma de queima-solar."
+      },
+      {
+        "imageName": "queima_solar2",
+        "imageDescription": "Fig. 35. Sintomas externos: variações na coloração marrom-escura na casca."
+      },
+      {
+        "imageName": "queima_solar3",
+        "imageDescription": "Fig. 36. Sintomas internos: progressão dos danos na polpa."
+      },
+      {
+        "imageName": "queima_solar4",
+        "imageDescription": "Fig. 37."
+      }
+    ],
+    "type": "Doênça",
+    "informations": [
+      {
+        "title": "Sintomas",
+        "description": "\tDe causa abiótica, a queima-solar do fruto do abacaxizeiro resulta da exposição de uma de suas partes à ação dos raios solares no lado do fruto voltado para o sol poente. Os efeitos da queima-solar são mais evidentes em frutos que tombam para um lado, seja em decorrência do comprimento do pedúnculo ou pela ocorrência de período de baixa disponibilidade de água no solo. A ação contínua dos raios solares, no período da manhã, provoca o aquecimento dos frutos, o que os tornam vulneráveis ao sol da tarde, entre 12 e 14 horas, responsável direto pela queima. Os primeiros sintomas da queima-solar caracterizam-se pelo aparecimento de uma descoloração amarelada na casca do fruto que, com o passar do tempo, apresenta a cor marrom escuro. Em estádios mais avançados de desenvolvimento podem ocorrer rachaduras entre os frutilhos. Internamente, a polpa na região afetada torna-se mais translúcida do que a sadia e, com o progresso da doença, assume consistência esponjosa e escurecida, o que deprecia o valor comercial do fruto."
+      },
+      {
+        "title": "Observação",
+        "description": "\tPromover a proteção mecânica do fruto, com a cobertura de papel jornal (ou similar) ou com as folhas do próprio abacaxizeiro, imediatamente após o término do período de floração."
+      }
+    ]
+  },
+  {
+    "title": "MANCHA-CHOCOLATE",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "mancha_chocolate1",
+        "imageDescription": "Fig. 38. Fruto do abacaxizeiro apresentando sintomas da mancha-chocolate."
+      },
+      {
+        "imageName": "mancha_chocolate2",
+        "imageDescription": "Fig. 39. Sintoma interno da mancha-chocolate."
+      }
+    ],
+    "type": "Doênça",
+    "informations": [
+      {
+        "title": "Importância Economica, Distribuição Geográfica, Descrição e Hábitos",
+        "description": "\tEm alguns Estados produtores de abacaxi do Brasil, como Maranhão, Pará e Tocantins, tem sido verificada uma anomalia denominada mancha-chocolate. Esta anomalia tem sido constatada predominantemente em frutos da cultivar Pérola e causa perdas reduzidas na produção."
+      },
+      {
+        "title": "Sintomas",
+        "description": "\tA mancha-chocolate é uma anomalia que incide nos frutos e caracteriza-se pela descoloração da polpa, inicialmente marrom-clara, que escurece com o progresso da doença. Análises em condições de laboratório não resultaram em isolamento de qualquer agente patogênico, o que sugere a ausência de agentes bióticos na etiologia do problema. Frutos afetados pela mancha-chocolate apresentam teores mais elevados de  compostos fenólicos e teores mais baixos de sólidos solúveis totais e de ácido ascórbico, o que caracteriza esta anomalia como de natureza fisiológica."
+      },
+      {
+        "title": "Observação",
+        "description": "\tA principal dificuldade com referência à mancha-chocolate é a inexistência de sintomas externos nos frutos afetados. Observações de produtores indicam que a ocorrência da mancha-chocolate é mais elevada no início do período chuvoso."
+      }
+    ]
+  },
+  {
+    "title": "DEFICIÊNCIA DE NITROGÊNIO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "deficiencia_de_nitrogenio1",
+        "imageDescription": "Fig. 40. Plantas com deficiência de nitrogênio (coloração verde-pálida), no centro da foto, em contraste com plantas normais (coloração verde escura)."
+      },
+      {
+        "imageName": "deficiencia_de_nitrogenio2",
+        "imageDescription": "Fig. 41. Plantas em estágio de frutificação, com deficiência generalizada de nitrogênio (coloração verde-pálida)."
+      }
+    ],
+    "type": "Deficiência nutricional",
+    "informations": [
+      {
+        "title": "Sintomas",
+        "description": "\tPlantas com deficiência de nitrogênio apresentam folhagem amarelo-esverdeada a amarela. As folhas são pequenas, estreitas e pouco numerosas. O desenvolvimento é lento, o que confere à planta um aspecto fraco. O fruto é pequeno, muito colorido e com coroa pequena. Não há praticamente produção de mudas. A deficiência de nitrogênio é freqüentemente observada em solos pobres em matéria orgânica, sem adubação, em ambientes quentes e ensolarados."
+      }
+    ]
+  },
+  {
+    "title": "DEFICIÊNCIA DE POTÁSSIO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "deficiencia_de_potacio1",
+        "imageDescription": "Fig. 42. Plantas com deficiência de potássio (folhas com pontuações amarelas)."
+      },
+      {
+        "imageName": "deficiencia_de_potacio2",
+        "imageDescription": "Fig. 43. Detalhe de abacaxizeiro com deficiência de potássio."
+      },
+      {
+        "imageName": "deficiencia_de_potacio3",
+        "imageDescription": "Fig. 44. Plantas com sintomas acentuados de deficiência de potássio."
+      }
+    ],
+    "type": "Deficiência nutricional",
+    "informations": [
+      {
+        "title": "Sintomas",
+        "description": "\tA deficiência de potássio no abacaxizeiro caracteriza-se pela folhagem verde a verde-escura, mais pronunciada com a adubação nitrogenada. As folhas mostram pequenas pontuações amarelas que crescem, multiplicam-se e podem se concentrar sobre as margens do limbo. Ocorre também um ressecamento da extremidade apical. A planta apresenta porte ereto e pedúnculo pouco resistente. O fruto é pequeno, com baixa acidez e sem aroma.\n\n\tA deficiência de potássio ocorre com freqüência, exceto em plantios instalados em solos ricos neste nutriente. É favorecida por adubação desequilibrada rica em nitrogênio, por radiação solar forte, por lixiviação intensa, e por solos com pH elevado e ricos em cálcio e magnésio."
+      }
+    ]
+  },
+  {
+    "title": "DEFICIÊNCIA DE MAGNÉSIO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "deficiencia_de_magnesio1",
+        "imageDescription": "Fig. 45. Sintomas de deficiência de magnésio em folhas de abacaxizeiro. A faixa verde na folha (foto B) estava sombreada pela folha mais acima (foto A)."
+      }
+    ],
+    "type": "Deficiência nutricional",
+    "informations": [
+      {
+        "title": "Sintomas",
+        "description": "\tUm abacaxizeiro com deficiência de magnésio apresenta porte normal; as folhas mais velhas são amareladas enquanto as partes sombreadas pelas mais novas permanecem verdes. Observam-se ainda manchas amarelas que se tornam marrons em ambiente controlado, ressecamento das folhas velhas que não completaram seu crescimento quando do aparecimento da deficiência. Produzem frutos com baixa acidez, pobres em açúcar e sem sabor. A deficiência de magnésio é muito freqüente em solos pobres neste nutriente, sobretudo quando se pratica uma forte adubação potássica, e em ambientes fortemente ensolarados."
+      }
+    ]
+  },
+  {
+    "title": "DEFICIÊNCIA DE FERRO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "deficiencia_de_ferro1",
+        "imageDescription": "Fig. 46. Sintomas típicos de deficiência de ferro, em plantas cultivadas em mencha de solo com pH = 7,7."
+      }
+    ],
+    "type": "Deficiência nutricional",
+    "informations": [
+      {
+        "title": "Sintomas",
+        "description": "\tA deficiência de ferro no abacaxizeiro caracteriza-se pelo desenvolvimento de clorose a partir das folhas jovens. Em geral, as folhas tornam-se fracas, largas e amarelas, com uma “rede” verde que corresponde aos vasos condutores. As folhas velhas ficam secas. No caso de pulverizações com ferro a alto volume pode-se observar folhas com faixas transversais verdes. Um abacaxizeiro com deficiência de ferro produz fruto vermelho com coroa clorótica. A deficiência de ferro em abacaxizeiro é muito freqüente nas seguintes condições: 1) solos com pH elevado; 2) solos ricos em manganês (Mn/Fe = 2); 3) solos compactados; 4) áreas com cupinzeiros (montículos); e 5) forte adubação nitrogenada de plantas submetidas a uma diminuição bastante rápida da atividade radicular por razões diversas."
+      }
+    ]
+  },
+  {
+    "title": "DEFICIÊNCIA DE COBRE",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "deficiencia_de_cobre1",
+        "imageDescription": "Fig. 47. Detalhe de planta com sintomas de deficiência de cobre."
+      },
+      {
+        "imageName": "deficiencia_de_cobre2",
+        "imageDescription": "Fig. 48. Plantas com sintomas de deficiência de cobre (à esquerda), ao lado de plantas que receberam aplicação deste nutriente."
+      }
+    ],
+    "type": "Deficiência nutricional",
+    "informations": [
+      {
+        "title": "Sintomas",
+        "description": "\tFolhas verde-claras, estreitas, com bordos ondulados, pronunciada calha em “U” e raros tricomas (projeções epidérmicas com aspecto de pêlos, de cor prateada, situadas na superfície inferior da folha). A ponta da folha “E” (folha jovem, em via de crescimento, situada na parte superior da planta) se encurva para baixo. As folhas mais velhas apresentam-se caídas e com coloração vermelho-púrpura na borda. As raízes são curtas e  seus pêlos absorventes reduzidos. No geral, o abacaxizeiro mostra um aspecto raquítico. Sintomas bastante semelhantes aos provocados pela murcha-associada à cochonilha."
+      }
+    ]
+  },
+  {
+    "title": "DEFICIÊNCIA DE ZINCO",
+    "culture": "ABACAXI",
+    "images": [
+      {
+        "imageName": "deficiencia_de_zinco1",
+        "imageDescription": "Plantas com sintomas de deficiência de zinco."
+      }
+    ],
+    "type": "Deficiência nutricional",
+    "informations": [
+      {
+        "title": "Sintomas",
+        "description": "\tEm plantas jovens: o centro da roseta foliar apresenta-se fechado, as folhas jovens são rígidas, quebradiças e às vezes encurvadas (crook-neck). Em plantas velhas as folhas basais apresentam nervuras irregulares e descoloração amarelo-alaranjada em placas nas margens do limbo, com a ponta seca. Pouco freqüente, exceto em solo com pH elevado, com calagem excessiva ou nos quais houve má incorporação do calcário ou do fósforo."
+      }
+    ]
+  },
+  {
+    "title": "EXEMPLO 1",
+    "culture": "MARACUJÁ",
+    "images": [
+      {
+        "imageName": "maracuja_estragado1",
+        "imageDescription": "Maracuja Estragado 1."
+      }
+    ],
+    "type": "Doênça",
+    "informations": [
+      {
+        "title": "Sintomas",
+        "description": "\tMaracuja Estragado 1."
+      }
+    ]
+  },
+  {
+    "title": "EXEMPLO 2",
+    "culture": "MARACUJÁ",
+    "images": [
+      {
+        "imageName": "maracuja_estragado2",
+        "imageDescription": "Maracuja Estragado 2."
+      }
+    ],
+    "type": "Doênça",
+    "informations": [
+      {
+        "title": "Sintomas",
+        "description": "\tMaracuja Estragado 2."
+      }
+    ]
+  }
+]

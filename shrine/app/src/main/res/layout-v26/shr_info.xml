@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    app:cardBackgroundColor="@android:color/transparent"
+    app:cardPreventCornerOverlap="true"
+    tools:context=".view.ProductActivity">
+
+    <LinearLayout
+        android:id="@+id/info_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="showDescription"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/info_title_dropdown_icon"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            app:srcCompat="@drawable/ic_drop_down_clicked"/>
+        <TextView
+            android:id="@+id/info_title_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shr_product_title"
+            android:textAppearance="?attr/textAppearanceCaption"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/info_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="1dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/info_description_image"
+            android:layout_width="match_parent"
+            android:layout_margin="0dp"
+            android:layout_height="180dp"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/info_description_image_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:maxLines="1"
+            android:gravity="center"
+            android:visibility="gone"
+            android:textAppearance="?attr/textAppearanceCaption"
+            android:textColor="@color/textColorPrimary"/>
+
+        <TextView
+            android:id="@+id/info_description_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+            android:text="@string/shr_product_description"
+            android:textAppearance="?attr/textAppearanceCaption"
+            android:textSize="14sp"
+            android:textAlignment="inherit"
+            android:textColor="@color/textColorPrimary"
+            android:justificationMode="inter_word"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shr_filters"/>
+
+        <android.support.design.button.MaterialButton
+            android:id="@+id/pragas_button"
+            style="@style/Widget.Shrine.Button.TextButton"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textAlignment="viewStart"
+            android:text="@string/shr_pragas_button" />
+
+        <android.support.design.button.MaterialButton
+            android:id="@+id/doencas_button"
+            style="@style/Widget.Shrine.Button.TextButton"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textAlignment="viewStart"
+            android:text="@string/shr_doencas_button" />
+
+        <android.support.design.button.MaterialButton
+            android:id="@+id/deficiencias_nutricionais_button"
+            style="@style/Widget.Shrine.Button.TextButton"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textAlignment="viewStart"
+            android:text="@string/shr_deficiencia_nutricional_button" />
+
+        <android.support.design.button.MaterialButton
+            android:id="@+id/all_button"
+            style="@style/Widget.Shrine.Button.TextButton"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textAlignment="viewStart"
+            android:text="@string/shr_all_button" />
+
+    </LinearLayout>
+</merge>

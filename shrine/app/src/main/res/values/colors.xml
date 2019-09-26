@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E0E0E0</color>
+    <color name="colorPrimaryDark">#84cc8b</color>
+    <color name="colorAccent">#c4ffc1</color>
+    <color name="textColorPrimary">#131912</color>
+    <color name="toolbarIconColor">#131912</color>
+    <color name="colorControlActivated">#c4ffc1</color>
+    <color name="loginPageBackgroundColor">#eeffff</color>
+    <color name="productGridBackgroundColor">#eeffff</color>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="shr_app_name">Manual do Abacaxi</string>
+    <string name="shr_hint_username">Seu nome</string>
+    <string name="shr_hint_password">Senha</string>
+    <string name="shr_button_next">Próximo</string>
+    <string name="shr_button_cancel">Cancelar</string>
+    <string name="shr_error_password">A senha pecisa conter pelo menos 8 caracteres.</string>
+    <string name="shr_search_title">Buscar</string>
+    <string name="shr_product_title">Título</string>
+    <string name="shr_product_description">Texto secundario</string>
+
+    <!-- Shrine backdrop menu labels -->
+    <string name="shr_contact_label">Não achou o que procurava?\nMande-nos uma foto, podemos te ajudar!</string>
+    <string name="shr_editname_label">Edite seu nome</string>
+    <string name="shr_about_label">Sobre nós</string>
+    <string name="shr_general_information_title">Geral</string>
+    <string name="shr_mainlist_title">Lista</string>
+    <string name="shr_favorite_title">Favoritos</string>
+    <string name="shr_share_title">Compartilhar</string>
+    <string name="shr_take_pictuce">Tire uma foto ou escolha da sua biblioteca</string>
+    <string name="shr_hint_email">Email</string>
+    <string name="shr_button_send">Enviar</string>
+    <string name="shr_hint_description">Descrição da anomalia</string>
+    <string name="camera">Camera icon</string>
+    <string name="shr_filters">Filtros:</string>
+    <string name="shr_doencas_checkbox_label">Doênças</string>
+    <string name="shr_pragas_checkbox_label">Pragas</string>
+    <string name="shr_deficiencia_nutricional_checkbox_label">Deficiências Nutricionais</string>
+    <string name="shr_hint_city">Cidade/Estado de ocorrência</string>
+    <string name="shr_deficiencia_nutricional_button">Deficiências nutricionais</string>
+    <string name="shr_doencas_button">Doenças</string>
+    <string name="shr_pragas_button">Pragas</string>
+    <string name="shr_all_button">Todos</string>
+    <string name="embrapa">EMBRAPA</string>
+
+    <string name="itemTitleDropDownIconView">itemTitleDropDownIconView</string>
+    <string name="itemDescriptionView">itemDescriptionView</string>
+</resources>
